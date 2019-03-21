@@ -8,8 +8,8 @@ File descriptions
 - test_V2.csv - the test set
 
 # Data fields
-DBNOs - Number of enemy players knocked.
-assists - Number of enemy players this player damaged that were killed by teammates.
+- DBNOs - Number of enemy players knocked.
+- assists - Number of enemy players this player damaged that were killed by teammates.
 boosts - Number of boost items used.
 damageDealt - Total damage dealt. Note: Self inflicted damage is subtracted.
 headshotKills - Number of enemy players killed with headshots.
